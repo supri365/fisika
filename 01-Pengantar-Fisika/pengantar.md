@@ -37,7 +37,7 @@ Fisika terbagi ke dalam beberapa cabang utama:
 
 Belajar fisika mengikuti langkah-langkah ilmiah:
 
-1. **Mengamati** fenomena alam
+1. **Mengamati fenomena alam**
 2. **Membuat pertanyaan**
 3. **Menyusun hipotesis**
 4. **Melakukan eksperimen**
