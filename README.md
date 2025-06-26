@@ -1,9 +1,19 @@
-# Materi Fisika Kelas X SMA
+# 📘 Materi Fisika SMA
 
-Repositori ini berisi kumpulan materi Fisika untuk siswa kelas X, disusun berdasarkan Kurikulum Merdeka dan pendekatan kontekstual. Materi ditulis dalam format terbuka agar bisa dipelajari dan dikembangkan bersama.
+Repositori ini menyajikan **materi Fisika untuk jenjang SMA** (Kelas X, XI, XII) secara:
+- Interaktif 💡
+- Terstruktur 📂
+- Kontekstual 🔍
 
-📘 Daftar Materi:
-1. [Pengantar Ilmu Fisika](./01-Pengantar-Fisika/pengantar.md)
-2. [Soal Latihan Pengantar Fisika](./01-Pengantar-Fisika/soal-latihan.md)
+Website versi GitHub Pages dapat diakses di:
+👉 https://supri365.github.io/fisika/
+
+## 📚 Daftar Isi
+- `kelas-x/` → Materi lengkap kelas X
+- `kelas-xi/` → Materi kelas XI (dalam pengembangan)
+- `kelas-xii/` → Materi kelas XII (dalam pengembangan)
 
 ---
+
+> “Ilmu tanpa amal adalah sia-sia. Fisika tanpa pemahaman hanya jadi hafalan.”  
+> — *Adaptasi dari Ki Hajar Dewantara*

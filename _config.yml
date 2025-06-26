@@ -1,4 +1,4 @@
 title: Materi Fisika SMA
-description: Kumpulan materi pembelajaran fisika untuk SMA kelas X, XI, dan XII
-theme: jekyll-theme-minimal
-show_downloads: false
+description: Materi Fisika SMA Interaktif untuk Kelas X, XI, dan XII
+theme: minima
+markdown: kramdown
