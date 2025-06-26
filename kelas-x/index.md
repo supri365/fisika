@@ -7,5 +7,5 @@ title: Daftar Materi Kelas X
 
 Materi-materi yang tersedia:
 
-- *(Segera ditambahkan)*
+- [🔗 Kuis Interaktif Pertemuan 1](./kuis/kuis-p1.html)
 
