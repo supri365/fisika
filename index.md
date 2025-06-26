@@ -1,28 +1,17 @@
 ---
-layout: default
-title: Materi Fisika SMA
+layout: home
+title: 👩‍🏫 Selamat Datang di Materi Fisika SMA
+nav_order: 1
 ---
 
-# 👩‍🏫 Selamat Datang di Materi Fisika SMA
+Repositori ini menyajikan **materi Fisika jenjang SMA** (Kelas X, XI, XII) secara:
 
-Repositori ini menyajikan materi Fisika jenjang SMA secara **terbuka, kontekstual, interaktif, dan terstruktur** berdasarkan kelas dan topik.
+- Interaktif 💡
+- Terstruktur 📂
+- Kontekstual 🔍
 
----
+## 🚀 Navigasi Cepat
 
-## 📘 Kelas X
-- [📖 Pertemuan 1: Pengantar Ilmu Fisika](./kelas-x/pertemuan-1.html)
-- [📝 Soal Latihan: Pengantar Fisika](./kelas-x/kuis/kuis-p1.html)
-- [📚 Daftar Isi Materi Kelas X](./kelas-x/index.md)
-
-## 📗 Kelas XI
-- *(Materi segera ditambahkan)*
-- [📚 Daftar Isi Materi Kelas XI](./kelas-xi/index.md)
-
-## 📕 Kelas XII
-- *(Materi segera ditambahkan)*
-- [📚 Daftar Isi Materi Kelas XII](./kelas-xii/index.md)
-
----
-
-> “Ilmu tanpa amal adalah sia-sia. Fisika tanpa pemahaman hanya jadi hafalan.”  
-> — *Adaptasi dari Ki Hajar Dewantara*
+- [📘 Kelas X](kelas-x/index.md)
+- [📗 Kelas XI](kelas-xi/index.md)
+- [📕 Kelas XII](kelas-xii/index.md)
