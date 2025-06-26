@@ -1,4 +1,7 @@
 title: Materi Fisika SMA
-description: Materi Fisika SMA Interaktif untuk Kelas X, XI, dan XII
-theme: minima
-markdown: kramdown
+description: Materi Fisika Interaktif untuk SMA
+theme: just-the-docs
+color_scheme: dark
+
+# GitHub Pages
+repository: supri365/fisika
