@@ -5,19 +5,22 @@ title: Materi Fisika SMA
 
 # 👩‍🏫 Selamat Datang di Materi Fisika SMA
 
-Repositori ini menyajikan materi Fisika untuk jenjang SMA secara terbuka, kontekstual, dan terstruktur.
+Repositori ini menyajikan materi Fisika jenjang SMA secara **terbuka, kontekstual, interaktif, dan terstruktur** berdasarkan kelas dan topik.
 
 ---
 
 ## 📘 Kelas X
-- [Pengantar Ilmu Fisika](./01-Pengantar-Fisika/pengantar.md)
-- [Soal Latihan Pengantar Fisika](./01-Pengantar-Fisika/soal-latihan.md)
+- [📖 Pertemuan 1: Pengantar Ilmu Fisika](./kelas-x/pertemuan-1.html)
+- [📝 Soal Latihan: Pengantar Fisika](./kelas-x/kuis/kuis-p1.html)
+- [📚 Daftar Isi Materi Kelas X](./kelas-x/index.md)
 
 ## 📗 Kelas XI
-*(Materi segera ditambahkan)*
+- *(Materi segera ditambahkan)*
+- [📚 Daftar Isi Materi Kelas XI](./kelas-xi/index.md)
 
 ## 📕 Kelas XII
-*(Materi segera ditambahkan)*
+- *(Materi segera ditambahkan)*
+- [📚 Daftar Isi Materi Kelas XII](./kelas-xii/index.md)
 
 ---
 
